@@ -18,7 +18,7 @@ https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-ja
 
 ^#3 To Be Or Not To Be
 
-https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript
+https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript
 
 */
 
@@ -42,7 +42,7 @@ https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envTyp
 
 ^#6 Filter Elements from Array
 
-https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript
+https://leetcode.com/problems/filter-elements-from-array/?envType=study-plan-v2&envId=30-days-of-javascript
 
 */
 
